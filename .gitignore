@@ -1,0 +1,4 @@
+nanotekspice
+src/*.o
+*.nts
+.vscode/
