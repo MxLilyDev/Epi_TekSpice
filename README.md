@@ -39,4 +39,3 @@ $ make
 ./nanotekspice or_gates.nts ......
 ```
 
-> :bulb: PrinceIsGod!
